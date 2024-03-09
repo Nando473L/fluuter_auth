@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95664428268",
+    "project_id": "autenticacion-6be6b",
+    "storage_bucket": "autenticacion-6be6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95664428268:android:0d877751989ce0ff0b41c9",
+        "android_client_info": {
+          "package_name": "flutter.autenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHs6N5DihA_JGy8uOEUgYv4EpnDF6epfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
